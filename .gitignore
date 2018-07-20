@@ -1,0 +1,10 @@
+.DS_store
+.idea
+target/
+*.iml
+/.settings/
+/.classpath
+/.project
+/.pmd
+*.jar
+*.war
